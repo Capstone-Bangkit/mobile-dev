@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gym Things:Snap and Figure it Out!</string>
+    <string name="title_menu_1">Gym Things:</string>
+    <string name="desc_menu_1">Snap and Figure it Out!</string>
+    <string name="desc_menu_2">Take pictures of gym equipment and learn how to use it</string>
+    <string name="desc_menu_3">Now you can find out the function of the equipment you scanned</string>
+    <string name="mulai">GET STARTED!</string>
+    <string name="welcome">Welcome to</string>
+    <string name="nama_app">Gym Things:Snap and Figure it Out!</string>
+    <string name="camera_menu">Take a Picture of your Gym Equipment</string>
+    <string name="equipment_menu">Our Gym Equipments list</string>
+    <string name="no_permission">Permission Denied! Please Try Again</string>
+    <string name="scan_picture">Scan Picture</string>
+    <string name="button_how">How to Use It</string>
+</resources>
